@@ -43,7 +43,8 @@
     "preserveCompilationContext": true,
     "compile": {
       "exclude": ["node_modules"]
-    }
+    },
+    "outputName": "Angular2DXWebpackDotNetCore"
   },
 
   "runtimeOptions": {
@@ -75,6 +76,6 @@
   },
 
   "tooling": {
-    "defaultNamespace": "Angular2DXWebpackCore"
+    "defaultNamespace": "Angular2DXWebpackDotNetCore"
   }
 }
