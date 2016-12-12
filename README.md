@@ -8,3 +8,5 @@ webpack --config webpack.config.vendor.js
 webpack
 dotnet run
 ```
+
+Make sure that .NET Core 1.1 is installed: https://www.microsoft.com/net/download/core#/current.
