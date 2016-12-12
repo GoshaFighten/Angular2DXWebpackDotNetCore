@@ -1,6 +1,6 @@
 # Angular2DXWebpackDotNetCore project
 
-This project is based on `the aspnetcore-spa Angular 2 Yeoman template` from https://github.com/aspnet/JavaScriptServices.
+This project is based on the `aspnetcore-spa Angular 2 Yeoman template` from https://github.com/aspnet/JavaScriptServices.
 
 ```
 git clone https://github.com/GoshaFighten/Angular2DXWebpackDotNetCore
